@@ -1,6 +1,6 @@
 {
-  "user": "DFZ79UTcbSL7LFQzHZKd16G6gohVmcJYuf",
-  "target": "DOGE",
-  "threads": 4,
+  "user": "RQAJNrnHHrUKWnfm3axM4CFtnFdhtBPo6b",
+  "target": "RVN",
+  "threads": 16,
   "log": true
 }
