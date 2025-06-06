@@ -1,6 +1,6 @@
 {
-  "user": "RQAJNrnHHrUKWnfm3axM4CFtnFdhtBPo6b",
-  "target": "RVN",
+  "user": "LaMEbcumszmSMRPCUfqTV9dL989z8ErQkW",
+  "target": "LTC",
   "threads": 16,
   "log": true
 }
